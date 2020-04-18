@@ -39,6 +39,7 @@ main {
 
 #landing {
     background: #fff;
+    overflow: hidden;
 }
 
 #landing-text {
@@ -108,7 +109,7 @@ footer {
     text-align: center;
     padding: 2rem 1rem;
     margin: auto;
-    color: #BCAAA4;
+    color: #A1887F;
 }
 
 footer h3 {
