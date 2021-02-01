@@ -3,7 +3,7 @@
 body {
     font-family: 'Roboto Condensed', sans-serif;
     margin: 0;
-    background: #6D4C41;
+    background: #ffff
     height: auto;
 }
 
@@ -27,7 +27,7 @@ img {
 }
 
 main {
-    max-width: 900px;
+    max-width: 80%;
     margin: auto;
     box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034),
     0 6.7px 5.3px rgba(0, 0, 0, 0.048),
@@ -35,6 +35,7 @@ main {
     0 22.3px 17.9px rgba(0, 0, 0, 0.072),
     0 41.8px 33.4px rgba(0, 0, 0, 0.086),
     0 100px 80px rgba(0, 0, 0, 0.12);
+    border-radius: 25%;
 }
 
 #landing {
@@ -109,7 +110,7 @@ footer {
     text-align: center;
     padding: 2rem 1rem;
     margin: auto;
-    color: #A1887F;
+    color: #010101;
 }
 
 footer h3 {
