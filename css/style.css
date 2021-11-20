@@ -134,6 +134,9 @@ footer h3 {
 		height: 100vh;
     }
 }
+@media (max-width 500) {
+footer h3 {font-size:2rem;} 
+} 
 
   /* Screen Sizes 700px and Up */
 @media (min-width: 700px) {
