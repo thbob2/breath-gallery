@@ -3,7 +3,7 @@
 body {
     font-family: 'Roboto Condensed', sans-serif;
     margin: 0;
-    background: #ffff
+    background: #00ACC1;
     height: auto;
 }
 
@@ -60,7 +60,7 @@ main {
 }
 
 #landing-image {
-    background: url("../img/bg.jpg");
+    background: url("https://mymodernmet.com/wp/wp-content/uploads/2019/06/oil-painting-clouds-ian-fisher-7-1024x1024.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -81,7 +81,8 @@ main {
 }
 
 .btn:hover {
-    background: #f4f4f4;
+    background: #0097A7;
+    color:#00ACC1;
 }
 
 #header {
@@ -110,7 +111,7 @@ footer {
     text-align: center;
     padding: 2rem 1rem;
     margin: auto;
-    color: #010101;
+    color: #E0F7FA;
 }
 
 footer h3 {
